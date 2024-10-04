@@ -20,12 +20,7 @@
   - [OR](#or)
   - [NOT](#not)
 - [Boolean](#boolean)
-- [Pole](#pole)
-- [Cykly](#cykly)
-  - [While](#while)
-  - [For](#for)
-  - [Do while](#do-while)
-
+  
 # Základní pojmy
 ## Algoritmus – definice
 * Algoritmus je přesně definovaná posloupnost kroků nebo procedur, které řeší určitý 
@@ -240,12 +235,5 @@ Ve Flowgorithm je to tato značka.
 * !true = false
 # Boolean
 * Datový typ do kterého můžeme ukládat hodnotu true a false
-
-# Pole
-
-# Cykly
-## While
-## For
-## Do while
 
 
